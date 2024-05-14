@@ -1,0 +1,4 @@
+MIND PALACE
+Mind-Palace is a technique to remember things, by creating a virtual palace inside brain and then storing information within the specific objects inside palace. 
+Abstract:
+My java project is based on this concept of MIND PALACE. Reason to choose this idea is that it applies both concepts; management system and game. It will basically be a GUI based program. There will be a login and sign-up page for the user. User will be shown a menu to add, remove and edit palaces, rooms and objects. User can create a palace and store any information and picture inside a specific object within a room inside the palace and associate it with something. Same goes for deleting and modifying something. User can take a quiz to test his memory retention. It will have a real-time progress tracking of the user. Whole information of the progress and data within palace will be stores inside the PC.
